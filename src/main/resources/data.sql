@@ -1,0 +1,10 @@
+INSERT INTO board(id, title, content, writer, editor) VALUES (1, 'title1', 'content1', 'writer1', 'writer1');
+INSERT INTO board(id, title, content, writer, editor) VALUES (2, 'title2', 'content2', 'writer2', 'writer2');
+INSERT INTO board(id, title, content, writer, editor) VALUES (3, 'title3', 'content3', 'writer3', 'writer3');
+INSERT INTO board(id, title, content, writer, editor) VALUES (4, 'title4', 'content4', 'writer4', 'writer4');
+INSERT INTO board(id, title, content, writer, editor) VALUES (5, 'title5', 'content5', 'writer5', 'writer5');
+INSERT INTO board(id, title, content, writer, editor) VALUES (6, 'title6', 'content6', 'writer6', 'writer6');
+INSERT INTO board(id, title, content, writer, editor) VALUES (7, 'title7', 'content7', 'writer7', 'writer7');
+INSERT INTO board(id, title, content, writer, editor) VALUES (8, 'title8', 'content8', 'writer8', 'writer8');
+INSERT INTO board(id, title, content, writer, editor) VALUES (9, 'title9', 'content9', 'writer9', 'writer9');
+INSERT INTO board(id, title, content, writer, editor) VALUES (10, 'title10', 'content10', 'writer10', 'writer10');
